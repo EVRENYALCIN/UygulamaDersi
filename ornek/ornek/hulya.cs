@@ -9,5 +9,6 @@ namespace ornek
     class hulya
     {
         //Hülya Gümüş
+        //yorum2
     }
 }
