@@ -8,5 +8,6 @@ namespace ornek
 {
     internal class Evren
     {
+        //Evren
     }
 }
