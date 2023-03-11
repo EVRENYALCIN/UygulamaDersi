@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace ornek
 {
-    internal class Emirhan
+    public class Emirhan
     {
         public Emirhan()
         {
             //Emirhan yorum class
+        }
+
+        public static void Emirhanla()
+        {
+            Console.WriteLine("Merhaba Emirhan");
         }
     }
 }
